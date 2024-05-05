@@ -10,3 +10,5 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
   <br>
 ### library:
 - Raylib
+
+![screenshot](./image.png)
