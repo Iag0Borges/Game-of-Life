@@ -10,5 +10,13 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
   <br>
 ### library:
 - Raylib
+### commands:
+- Press R to a random draw
+- Use the Left Mouse Button to draw
+- Press Enter to start
+- Press Space to pause
+- Press F to speed up
+- Press S to slow down
+  
 
 ![screenshot](./image.png)
