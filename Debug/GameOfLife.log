@@ -1,0 +1,5 @@
+﻿  grid.cpp
+  main.cpp
+  Generating Code...
+C:\Users\PC\Desktop\Visual Studio\GameOfLife\grid.cpp(1,10): error C1083: Cannot open include file: 'raylib.h': No such file or directory
+C:\Users\PC\Desktop\Visual Studio\GameOfLife\main.cpp(1,10): error C1083: Cannot open include file: 'raylib.h': No such file or directory
